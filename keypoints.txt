@@ -1,0 +1,134 @@
+//Rsp Sinha 1:
+$2a$10$48MSpzuBsLgV.kT68Fhii.IZY4UzVdbI6goAM1tHasZa4JKBasRpq;
+
+//Rsp Sinha 2:
+$2a$10$wJFsOjRVxFeWvr7rBmFGQePLM15kVO7aE2JjT7k4pNU20BCAh1nvm;
+
+{
+    "firstName": "Rajiv Shekhar Prasad",
+    "lastName": "Sinha",
+    "userRole": "Building Manager",
+     "mobileNumber": "9431353148",
+    "emailId": "rajiv.shekhar95@gmail.com",
+    "password": "password"
+}
+
+{
+    "firstName": "Utkarsh",
+    "lastName": "Shekhar",
+    "userRole": "Board Member",
+    "mobileNumber": "8197321018",
+    "emailId": "utkarsh.shekhar@gmail.com",
+    "password": "password123"
+}
+
+ {
+		"userId": "7e9ce5bb-0def-4692-b47e-76fe2a519135",
+        "communityName": "Pulse Residency",
+        "streetName": "Kembathalli",
+        "numberOfUnits": "21",
+        "city": "Bangalore",
+        "country": "India",
+        "state": "Karnataka"
+  }
+
+{
+    "firstName": "Shubham",
+    "lastName": "Shekhar",
+    "userRole": "Board President",
+    "mobileNumber": "9431294349",
+    "emailId": "shubham.shekhar@gmail.com",
+    "password": "password@123"
+}
+
+ {
+		"userId": "45dc9627-3fbb-4b10-a46d-5d6b8f44e20b",
+        "communityName": "G.S Residency",
+        "streetName": "Kembathalli",
+        "numberOfUnits": "21",
+        "city": "Bangalore",
+        "country": "India",
+        "state": "Karnataka"
+  }
+
+{
+    "firstName": "Sidhant",
+    "lastName": "Shekhar",
+    "userRole": "Professional Manager",
+    "mobileNumber": "959083118",
+    "emailId": "sidhant.shekhar@gmail.com",
+    "password": "pwd@123"
+}
+
+
+
+******Role Info Table*****  
+    {
+    "userId": "" ,
+    "strataId": "",
+    "designation": "",
+    "emailId": "",
+    "role": ""
+    }
+    
+***********             Test Data           *******************************
+    ******Data Needed To Be Setup*****
+    {
+    "firstName": "Utkarsh",
+    "lastName": "Shekhar",
+    "userRole": "Building President",
+     "mobileNumber": "8197321018",
+    "emailId": "utki.619@gmail.com",
+    "password": "utkarsh@123"
+}
+***********Community Table Info************
+{
+		"userId": "",
+        "communityName": "Vishal Heights",
+        "streetName": "Canara Bank Colony",
+        "numberOfUnits": "10",
+        "city": "Bangalore",
+        "country": "India",
+        "state": "Karnataka"
+  }
+
+  ******Role Info Table*****  
+    {
+    "userId": "" ,
+    "strataId": "",
+    "designation": "Admin",
+    "emailId": "utki.619@gmail.com",
+    "role": "Building President"
+    }
+
+
+
+    	{
+		"firstName": "Amrit",
+	    "lastName": "Prasad",
+	    "userRole": "Board President",
+	    "mobileNumber": "959083118",
+	    "emailId": "amrit.prasad@sysfore.in",
+	    "password": "amrit@123",
+	    "communityName": "Jayanthi Residency",
+        "streetName": "D-Mart Lane",
+        "numberOfUnits": "8",
+        "city": "Bangalore",
+        "country": "India",
+        "state": "Karnataka",
+        "role":  "Admin"
+	}
+
+
+    {        
+        "isWeb": false,
+        "isEmail": false,
+        "isPhoneMessaging": true,
+        "isTenant": false,
+        "subject": "Hello World",
+        "message": "Hey What's Up"
+    }
+
+    ||
+                        "superAdmin" ||
+                        "assignedAdmin"
